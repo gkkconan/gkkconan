@@ -1,40 +1,34 @@
-<h2 align="left">Hi! I'm Conan.</h2>
+## Hi! I'm Conan
 
-###
-
-<div align="center">
-</div>
-
-###
+<br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/html.svg" height="30" alt="html5"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/css.svg" height="30" alt="css"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/typescript.svg" height="30" alt="typescript"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/angular.svg" height="30" alt="angular"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/python.svg" height="30" alt="python"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/vim.svg" height="30" alt="vim"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/c.svg" height="30" alt="c"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/git.svg" height="30" alt="git logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://t.me/gkkconan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=telegram&logo=telegram&label=&color=2CA5E0&logoColor=&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/figma.svg" height="30" alt="figma"  />
 </div>
 
 <br>
 
-#### ⚠️ Profile under construction
+<div align="left">
+  <a href="https://t.me/gkkconan" target="_blank">
+      <h3 style="color: white">
+          CONTACTS:
+      </h3>
+    <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/telegram.svg" height="35" alt="telegram"  />
+  </a>
+</div>
