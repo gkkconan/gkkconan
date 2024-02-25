@@ -29,9 +29,9 @@
 ### CONTACTS:
 
   <a href="https://t.me/gkkconan" target="_blank">
-    <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/63cd9b8c182c7ba1ffb40dcb4f9387670ae6e515/icons/telegram.svg" height="35" alt="telegram"  />
+    <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/db91fe8777a0f32ce5f71d134e3ea8c33c735771/icons/telegram.svg" height="35" alt="telegram"  />
   </a>
   
-  <a href="https://t.me/gkkconan" target="_blank">
-    <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/63cd9b8c182c7ba1ffb40dcb4f9387670ae6e515/icons/linkedin.svg" height="35" alt="linkedin"  />
+  <a href="www.linkedin.com/in/gkkconan" target="_blank">
+    <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/db91fe8777a0f32ce5f71d134e3ea8c33c735771/icons/linkedin.svg" height="35" alt="linkedin"  />
   </a>
