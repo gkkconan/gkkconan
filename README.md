@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/html.svg" height="30" alt="html5"/>
-  <img width="15" />
+  <img width="15"/>
   <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/css.svg" height="30" alt="css"/>
     <img width="15"/>
   <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/javascript.svg" height="30" alt="javascript"/>
@@ -17,9 +17,9 @@
   <img width="15"/>
   <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/vim.svg" height="30" alt="vim"  />
   <img width="15"/>
-  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/c.svg" height="30" alt="c"  />
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/c.svg" height="30" alt="c"/>
   <img width="15"/>
-  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/63cd9b8c182c7ba1ffb40dcb4f9387670ae6e515/icons/git.svg" height="30" alt="git logo"/>
+  <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/63cd9b8c182c7ba1ffb40dcb4f9387670ae6e515/icons/git.svg" height="30" alt="git"/>
   <img width="15"/>
   <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/752abfed6e4b8585e8672bae1c1f193f98e0be7e/icons/figma.svg" height="30" alt="figma"/>
   <img width="15"/>
@@ -31,11 +31,10 @@
 ### CONTACTS:
 
 <div align="left">
-  <a href="https://t.me/gkkconan" target="_blank" rel="noreferrer">
+  <a href="https://t.me/gkkconan">
     <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/db91fe8777a0f32ce5f71d134e3ea8c33c735771/icons/telegram.svg" height="35" alt="telegram"/>
   </a>
-  <img width="15"/>
-  <a href="https://www.linkedin.com/in/gkkconan" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/gkkconan">
     <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/db91fe8777a0f32ce5f71d134e3ea8c33c735771/icons/linkedin.svg" height="35" alt="linkedin"/>
   </a>
 </div>
