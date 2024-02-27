@@ -30,10 +30,12 @@
 
 ### CONTACTS:
 
-<a href="https://t.me/gkkconan" target="_blank" rel="noreferrer">
+<div align="left">
+  <a href="https://t.me/gkkconan" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/db91fe8777a0f32ce5f71d134e3ea8c33c735771/icons/telegram.svg" height="35" alt="telegram"/>
-</a>
-<img width="15"/>
-<a href="https://www.linkedin.com/in/gkkconan" target="_blank" rel="noreferrer">
+  </a>
+  <img width="15"/>
+  <a href="https://www.linkedin.com/in/gkkconan" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gkkconan/gkkconan/db91fe8777a0f32ce5f71d134e3ea8c33c735771/icons/linkedin.svg" height="35" alt="linkedin"/>
-</a>
+  </a>
+</div>
