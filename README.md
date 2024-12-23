@@ -32,12 +32,9 @@
 
 <div align="left">
   <a href="https://t.me/gkkconan">
-    <img src="icons/contacts/telegram.svg" height="35" alt="telegram"/>
+    <img src="icons/contacts/telegram.svg" width="50" height="35" alt="telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/gkkconan">
-    <img src="icons/contacts/linkedin.svg" height="35" alt="linkedin"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gkkconan">
-    <img src="icons/contacts/discord.svg" height="35" alt="discord"/>
+    <img src="icons/contacts/linkedin.svg" width="50" height="35" alt="linkedin"/>
   </a>
 </div>
