@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: "JetBrains Mono", serif; color: var(--tx-primary);}
+html, body{width: 100vw; height: 100vh;}
+body{background-color: black; outline: solid; outline-color: white; outline-offset: -20px;}
+
+a, button{all: unset; cursor: pointer;}
+input{background: none; border: none; outline: none;}
+a{color: var(--tx-link);}
+ul{list-style: none;}
+
+:root{
+    --tx-title: #ffddc0;
+    --tx-primary: #fff;
+    --tx-secondary: #a3a3a3;
+    --tx-link: #c3c7f4;
+
+    --tx-select: #323232;
+}
+
+/**************************************************/
+
+.center-flex{display: flex; align-items: center; justify-content: center;}
+
+/**************************************************/
+
+header{height: 50vh; flex-wrap: wrap; gap: 50px; padding: 40px 40px 0 40px;}
+header .info div{display: flex; flex-direction: row;}
+header .info div p{width: 125px;}
+header .info div a{color: var(--tx-secondary);}
+
+/**************************************************/
+
+nav{height: 50px; justify-content: flex-start !important; padding: 50px;}
+nav ul li{padding: 15px; margin: 5px;}
+nav ul li.active{padding: 15px; background: white;}
+nav ul li.active a{color: black;}
+nav ul li:hover{padding: 15px; background: var(--tx-select);}
+nav ul li:hover a{color: white;}
+
+/**************************************************/
+
+main{margin: 25px 50px;}
+
+table{width: 100%; text-align: left;}
+table thead th{padding: 10px 0; border-bottom: 2px solid white;}
+table td{padding: 5px;}
+table tbody tr{cursor: pointer;}
+table tbody tr:hover{background: var(--tx-select);}
+
+/**************************************************/
+
+#projects, #skills, #about{
+    width: 50vw; height: 50vh;
+    display: none;
+    position: absolute;
+    border: 3px solid white;
+    box-shadow: 10px 10px 0 white;
+    background: black;
+}
+
+#projects .close-btn, #skills .close-btn, #about .close-btn{width: 25px; position: absolute; top: 35px; right: 35px; cursor: pointer;}
+#projects h2, #skills h2, #about h2{width: 100%; height: 100px; display: grid; place-items: center;}
+#projects .info, #skills .info, #about .info{height: calc(100% - 200px); flex-direction: column; gap: 35px;}
+
+/**************************************************/
+
+#projects .info{padding: 35px;}
+
+/**************************************************/
+
+#about h3{width: 100%; margin: 0px 0 5px 0; text-align: center; color: var(--tx-title);}
+#about p{text-align: center;}
+#about .links{flex-direction: column;}
+#about .link{display: flex; flex-direction: row;}
+#about .link p{width: 150px;}
+#about .link a{width: 125px;}
+
+/**************************************************/
+
+.terminal{
+    width: calc(100vw - 100px);
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    left: 50px; bottom: 25px;
+    padding: 25px;
+    font-size: 20px;
+    border-top: 2px solid #eee;
+}
+.terminal input{width: 100%; margin-left: 10px; font-size: 15px;}
+.terminal p{font-size: 15px; margin: 5px 0;}
+
+/**************************************************/
+
+@media screen and (max-width: 1700px){
+    #projects, #skills, #about{width: 70vw;}
+}
+
+@media screen and (max-width: 1000px){
+    #projects, #skills, #about{width: 80vw;}
+}
+
+@media screen and (max-width: 800px){
+    header img{width: 275px;}
+
+    #projects .info, #skills .info, #about .info{height: calc(100% - 100px); overflow: auto; scrollbar-width: none;}
+    table thead{display: none;}
+    table tbody tr{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 15px;
+        padding: 15px;
+        border: 2px solid white;
+    }
+}
+
+@media screen and (max-width: 650px){
+    header{height: 35vh;}
+    #projects, #skills, #about{width: calc(100% - 35px); height: calc(100% - 35px); box-shadow: none;}
+}
