@@ -9,133 +9,95 @@
 </head>
 <body class="center-flex">
 
-    <header class="center-flex">
-        <img src="assets/gkkconan-ascii-light.svg" width="400" alt="ascii-name">
-        <div class="info">
-            <div class="name"> <p> Name </p> <a> gkkconan </a> </div>
-            <div class="location"> <p> Location </p> <a> Italy </a> </div>
-            <div class="profile"> <p> Profile </p> <a href="https://github.com/gkkconan"> @gkkconan </a> </div>
-        </div>
-    </header>
-
-    <div class="terminal">
-      <div class="center-flex">
-        <span> : </span>
-        <input type="text" tabindex="1">
-      </div>
-      <p></p>
-    </div>
-
-    <div id="projects">
-      <img class="close-btn" onclick="showAndHideSections('projects')" src="assets/icons/close.svg" alt="close">
-      <h2> (3) Projects </h2>
-
+  <header class="center-flex">
+      <img src="assets/gkkconan-ascii-light.svg" width="400" alt="ascii-name">
       <div class="info">
-        <table>
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Title</th>
-              <th>Categories</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr onclick="window.location.href = 'https://github.com/pako3549/quickCards'">
-              <td>24 Dec 2024</td>
-              <td>QuickCards App</td>
-              <td>mobile, development</td>
-            </tr>
-            <tr onclick="window.location.href = 'https://github.com/gkkconan/dotfiles'">
-              <td>31 Oct 2024</td>
-              <td>Dotfiles</td>
-              <td>linux, rice, config</td>
-            </tr>
-            <tr onclick="window.location.href = 'https://github.com/gkkconan/arduino-robot'">
-              <td>15 Mar 2024</td>
-              <td>Arduino Robot</td>
-              <td>development, arduino, robot</td>
-            </tr>
-            <!-- <tr onclick="window.location.href = 'https://github.com/pako3549/quickCards'">
-              <td>13 Dec 2024</td>
-              <td>Quantum Cryptography Video (QKD - BB84)</td>
-              <td>quantum, video, editing</td>
-            </tr>
-            <tr onclick="window.location.href = 'https://github.com/pako3549/quickCards'">
-              <td>27 Oct 2024</td>
-              <td>IT Lab Manager</td>
-              <td>svelte, development</td>
-            </tr> -->
-          </tbody>
-        </table>
+          <div class="name"> <p> Name </p> <a> gkkconan </a> </div>
+          <div class="location"> <p> Location </p> <a> Italy </a> </div>
+          <div class="profile"> <p> Profile </p> <a href="https://github.com/gkkconan"> @gkkconan </a> </div>
+      </div>
+  </header>
+
+  <div class="terminal">
+    <div class="center-flex">
+      <span> : </span>
+      <input type="text" tabindex="1">
+    </div>
+    <p></p>
+  </div>
+
+  <div id="projects">
+    <img class="close-btn" onclick="showAndHideSections('projects')" src="assets/icons/close.svg" alt="close">
+    <h2> (3) Projects </h2>
+
+    <div class="info">
+      <table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Title</th>
+            <th>Categories</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr onclick="window.location.href = 'https://github.com/pako3549/quickCards'">
+            <td>24 Dec 2024</td>
+            <td>QuickCards App</td>
+            <td>mobile, development</td>
+          </tr>
+          <tr onclick="window.location.href = 'https://github.com/gkkconan/dotfiles'">
+            <td>31 Oct 2024</td>
+            <td>Dotfiles</td>
+            <td>linux, rice, config</td>
+          </tr>
+          <tr onclick="window.location.href = 'https://github.com/gkkconan/arduino-robot'">
+            <td>15 Mar 2024</td>
+            <td>Arduino Robot</td>
+            <td>development, arduino, robot</td>
+          </tr>
+          <tr>
+            <td>13 Dec 2024</td>
+            <td>Quantum Cryptography Video (QKD - BB84)</td>
+            <td>quantum, video, editing</td>
+          </tr>
+          <!--
+          <tr onclick="window.location.href = 'https://github.com/pako3549/quickCards'">
+            <td>27 Oct 2024</td>
+            <td>IT Lab Manager</td>
+            <td>svelte, development</td>
+          </tr> -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="skills">
+    <img class="close-btn" onclick="showAndHideSections('skills')" src="assets/icons/close.svg" alt="close">
+    <h2> (7) Skills </h2>
+  </div>
+
+  <div id="about">
+    <img class="close-btn" onclick="showAndHideSections('about')" src="assets/icons/close.svg" alt="close">
+    <h2> (5) About </h2>
+
+    <div class="info center-flex">
+      <div>
+        <h3> Portfolio v1.0.0 </h3>
+        <p> Created by me </p>
+      </div>
+
+      <div class="links center-flex">
+        <h3> Me on the web </h3>
+        <div class="link"> <p> Github </p> <a href="https://github.com/gkkconan"> @gkkconan </a> </div>
+        <div class="link"> <p> Github </p> <a href="https://github.com/blvckspider"> @blvckspider </a> </div>
+        <div class="link"> <p> Behance </p> <a href="https://www.behance.net/blvckwolf"> @blvckwolf </a> </div>
+        <div class="link"> <p> Linkedin </p> <a href="https://www.linkedin.com/in/gkkconan/"> @gkkconan </a> </div>
+        <div class="link"> <p> Telegram </p> <a href="https://t.me/gkkconan"> @gkkconan </a> </div>
       </div>
     </div>
-
-    <div id="skills">
-      <img class="close-btn" onclick="showAndHideSections('skills')" src="assets/icons/close.svg" alt="close">
-      <h2> (7) Skills </h2>
-    </div>
-
-    <div id="about">
-      <img class="close-btn" onclick="showAndHideSections('about')" src="assets/icons/close.svg" alt="close">
-      <h2> (5) About </h2>
-
-      <div class="info center-flex">
-        <div>
-          <h3> Portfolio v1.0.0 </h3>
-          <p> Created by me </p>
-        </div>
-
-        <div class="links center-flex">
-          <h3> Me on the web </h3>
-          <div class="link"> <p> Github </p> <a href="https://github.com/gkkconan"> @gkkconan </a> </div>
-          <div class="link"> <p> Github </p> <a href="https://github.com/blvckspider"> @blvckspider </a> </div>
-          <div class="link"> <p> Behance </p> <a href="https://www.behance.net/blvckwolf"> @blvckwolf </a> </div>
-          <div class="link"> <p> Linkedin </p> <a href="https://www.linkedin.com/in/gkkconan/"> @gkkconan </a> </div>
-          <div class="link"> <p> Telegram </p> <a href="https://t.me/gkkconan"> @gkkconan </a> </div>
-        </div>
-      </div>
-    </div>
-
-   <!--  <nav class="center-flex">
-        <ul class="center-flex">
-            <li class="active"> <a href="pages/projects"> (3) Projects </a> </li>
-            <li> <a href="pages/skills"> (5) Skills </a> </li>
-            <li> <a href="pages/about"> About </a> </li>
-            <li> <a href="pages/writeups"> (2) Writeups </a> </li>
-        </ul>
-    </nav>
-
-    <main>
-        <table>
-            <thead>
-              <tr>
-                <th>Date</th>
-                <th>Title</th>
-                <th>Categories</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>24 Dec 2024</td>
-                <td>QuickCards App</td>
-                <td>mobile, development</td>
-              </tr>
-              <tr>
-                <td>13 Dec 2024</td>
-                <td>Quantum Cryptography Video (QKD - BB84)</td>
-                <td>quantum, video, editing</td>
-              </tr>
-              <tr>
-                <td>27 Oct 2024</td>
-                <td>IT Lab Manager</td>
-                <td>svelte, development</td>
-              </tr>
-            </tbody>
-          </table>
-          
-    </main> -->
-    
-    <script src="main.js"></script>
+  </div>
+  
+  <script src="main.js"></script>
     
 </body>
 </html>

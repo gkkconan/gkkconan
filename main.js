@@ -17,6 +17,7 @@ document.addEventListener('keydown', (event) => {
         input.focus();
         event.preventDefault(); 
     }
+    
     if(event.key === "Escape" || inputValue === "exit"){ terminal.style.display = "none"; input.value = ""; }
     else if(event.key === 'Enter'){
         console.log(`Valore inserito: ${inputValue}`);
