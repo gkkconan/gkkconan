@@ -108,5 +108,5 @@ table tbody tr:hover{background: var(--tx-select);}
 
 @media screen and (max-width: 650px){
     header{height: 35vh;}
-    #projects, #skills, #about{width: calc(100% - 35px); height: calc(100% - 35px); box-shadow: none;}
+    #projects, #skills, #about{width: calc(100% - 35px); height: calc(100% - 60px); top: 15px; box-shadow: none;}
 }
