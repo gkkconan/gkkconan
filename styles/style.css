@@ -2,7 +2,7 @@
 
 *{margin: 0; padding: 0; box-sizing: border-box; font-family: "JetBrains Mono", serif; color: var(--tx-primary);}
 html, body{width: 100vw; height: 100vh;}
-body{background-color: black; outline: solid; outline-color: white; outline-offset: -20px;}
+body{background-color: black;}
 
 a, button{all: unset; cursor: pointer;}
 input{background: none; border: none; outline: none;}
@@ -22,6 +22,17 @@ ul{list-style: none;}
 .center-flex{display: flex; align-items: center; justify-content: center;}
 
 /**************************************************/
+
+.wrapper{
+    width: 100vw; height: calc(100vh - 30px);
+    outline: solid;
+    outline-color: white;
+    outline-offset: -20px;
+    padding-bottom: 50px;
+}
+
+footer{display: inline; position: absolute; bottom: 15px; right: 15px;}
+
 
 header{height: 50vh; flex-wrap: wrap; gap: 50px; padding: 40px 40px 0 40px;}
 header .info div{display: flex; flex-direction: row;}
@@ -63,7 +74,7 @@ table tbody tr:hover{background: var(--tx-select);}
     display: none;
     flex-direction: column;
     position: absolute;
-    left: 50px; bottom: 25px;
+    left: 50px; bottom: 55px;
     padding: 25px;
     font-size: 20px;
     border-top: 2px solid #eee;
