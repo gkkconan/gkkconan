@@ -66,10 +66,11 @@ YAML                     17 mins             ░░░░░░░░░░░�
 
 ### Projects
 Some stuff I’ve built (or helped build). A mix of solo hacks and collabs - not all hosted on my account:
-- [Demetra Server](https://github.com/demetra-project/server) -  A simple and minimalist GraphQL server created with nodejs, express and apollo.  
-- [QuickCards](https://github.com/Pako3549/QuickCards) - A React Native app that simplifies business cards exchange using NFC technology.  
-- [Guardians of the Void - Cleanup Chaos](https://github.com/guardians-of-the-void/cleanup-chaos) - A simple web game made with Phaser 3 and TS.  
-- [Basilite](https://github.com/basilite) - An open-source team focused on building high-performance apps with world-class user experience.  
+- [Demetra Server](https://github.com/demetra-project/server) -  A simple and minimalist GraphQL server created with nodejs, express and apollo.
+- [DockerChat](https://github.com/Nick-Maro/DockerChat) - Docker-based end-to-end encrypted chat application.
+- [QuickCards](https://github.com/Pako3549/QuickCards) - A React Native app that simplifies business cards exchange using NFC technology.
+- [Guardians of the Void - Cleanup Chaos](https://github.com/guardians-of-the-void/cleanup-chaos) - Simple web game made with Phaser 3 and TS.
+- [Basilite](https://github.com/basilite) - An open-source team focused on building high-performance apps with world-class user experience.
 - [Lab Manager](https://github.com/blvckspider/it-lab-manager) - A simple lab material manager: loans, locations, and search via CRUD interface.
 
 <br>
