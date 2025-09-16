@@ -60,6 +60,18 @@ Docker                   39 mins             ██░░░░░░░░░�
   <img src="icons/skills/figma.svg" width="30" alt="figma"/>
   <img width="15"/>
   <img src="icons/skills/markdown.svg" width="30" alt="markdown"/>
+  <img width="15"/>
+  <img src="icons/skills/docker.svg" width="30" alt="docker"/>
+  <img width="15"/>
+  <img src="icons/skills/nginx.svg" width="30" alt="nginx"/>
+  <img width="15"/>
+  <img src="icons/skills/graphql.svg" width="30" alt="graphql"/>
+  <img width="15"/>
+  <img src="icons/skills/npm.svg" width="30" alt="npm"/>
+  <img width="15"/>
+  <img src="icons/skills/yaml.svg" width="30" alt="yaml"/>
+  <img width="15"/>
+  <img src="icons/skills/linux.svg" width="30" alt="linux"/>
 </div>
 
 <br>
