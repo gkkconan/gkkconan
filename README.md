@@ -1,38 +1,6 @@
 ## Hi! I'm Conan
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-🌆 Daytime                957 commits         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-🌃 Evening                1044 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌙 Night                  1024 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Tuesday                  633 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Thursday                 373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Friday                   649 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Sunday                   295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               11 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   40.05 % 
-Other                    8 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Python                   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Bash                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Markdown                 1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-```
-
 
 <!--END_SECTION:waka-->
 
