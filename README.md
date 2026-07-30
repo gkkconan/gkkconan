@@ -1,7 +1,7 @@
 ## Hi! I'm Conan
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2024%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -28,35 +28,35 @@ Sunday                   294 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    46 mins             ███████████████░░░░░░░░░░   60.18 % 
-TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 2 hrs 55 mins       ██████████████░░░░░░░░░░░   55.15 % 
+TypeScript               1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.88 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 17 mins (100.0%)
 
-✍️ 403 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,795 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,352,355 Input Tokens, 30,087 Output Tokens
+🔤 1,109,141 Input Tokens, 132,112 Output Tokens
 
-💵 $34.88 Estimated AI Cost This Week
+💵 $5.31 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 43 AI Prompts
+🧠 6 AI Sessions, 53 AI Prompts
 
-K                        396 lines           ██████████████████████░░░   89.39 % 
-Deepseek                 40 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Deepseek                 4,535 lines         ███████████████████░░░░░░   77.48 % 
+K                        1,318 lines         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+S                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,128 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 422 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
