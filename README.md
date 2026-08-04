@@ -28,36 +28,32 @@ Sunday                   312 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.54 % 
-TypeScript               2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.06 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+TypeScript               31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 31 mins (100.0%)
 
-✍️ 5,394 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,046 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,411,650 Input Tokens, 135,625 Output Tokens
+🔤 2,733,328 Input Tokens, 27,790 Output Tokens
 
-💵 $16.71 Estimated AI Cost This Week
+💵 $13.10 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 52 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-Deepseek                 4,406 lines         ████████████████████░░░░░   80.64 % 
-GPT                      686 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-K                        372 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+GPT                      686 lines           ██████████████░░░░░░░░░░░   56.79 % 
+K                        372 lines           ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Deepseek                 150 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 S                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 566 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 1,984 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
