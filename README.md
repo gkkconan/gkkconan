@@ -1,65 +1,14 @@
 ## Hi! I'm Conan
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2010%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                1095 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌃 Evening                1249 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌙 Night                  1202 commits        ████████░░░░░░░░░░░░░░░░░   30.51 % 
+```txt
+TypeScript   21 hrs 5 mins         ████████████████████████▒   97.95 %
+JavaScript   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Prisma       7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Tuesday                  747 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   799 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Sunday                   338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               4 hrs 19 mins       ███████████████████████░░   90.77 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 46 mins (100.0%)
-
-✍️ 16,303 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 6,524,153 Input Tokens, 269,457 Output Tokens
-
-💵 $28.09 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 56 AI Prompts
-
-Deepseek                 15,553 lines        ███████████████████████░░   93.63 % 
-GPT                      686 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-K                        372 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,059 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
