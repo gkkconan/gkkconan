@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 mins               █████████████████████████   100.00 %
+Swift        3 hrs 12 mins         ██████████████████░░░░░░░   72.59 %
+TypeScript   59 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
+JavaScript   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
